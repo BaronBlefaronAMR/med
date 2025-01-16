@@ -4,7 +4,7 @@ NO:
 pacient/ka přjat/a (kdy) (jak) (cestou) pro (potíže/výkon)
 
     Hlavní obtíže: "Chief Complaint"
-    1. bolest
+    1. bolest: okolnosti vzniku, lokus, char., radiace, trvání, opakování, způsob úlevy, změny znaků
     2. nausea/vomitus
     3. vyprazdňování
     4. krvácení
@@ -62,12 +62,7 @@ Senzitivita:
 Citlivosť:
 
 & Differenciální diagnostika
-Syndromologie:
-Semiologie:
-Topologie:
-Etiologie:
-
-
+Syndromologie & Semiologie & Topologie & Etiologie
 
 ** PARAKLINICKÁ VYŠETŘENÍ **
 
@@ -80,7 +75,19 @@ LAB:
 
 DIA:
     RTG, USG, CT, CTAG, MRI, PET/CT ...
-ENDOSKOPIE:EKG:
+ENDOSKOPIE:
+
+EKG:
+srdeční akce, [R-R diff < 160 ms]
+srdeční rytmus, [sinusový/atriálny/junkční/idioventrikulární]
+srdeční frekvence, [SF = 300/squares, 55< freq <90]
+P vlna, 
+PQ interval,
+QRS komplex,
+ST úsek,
+T vlna,
+QT interval,
+elektrická osa srdeční (EOS).
 
 ** KOMPLEMENTÁRNE VYŠETRENIA **
     Idchemie DKK --> Fontaine klasifikace (I., II., III., IV.)
