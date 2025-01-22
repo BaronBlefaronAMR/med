@@ -47,7 +47,7 @@ TAT: tetanus?
 
 ** STATUS PRAESENS GENERALIS**
 Subj.:  (ako sa pacient cíti, je aktívny, obmedzený?)
-TK 125/91 mmHg; TT 36,6 °C; TF 87/min, SpO2 99% spont., 95 kg, 190 cm, BMI = 20,1
+TK 125/91 mmHg; TT 36,6 °C; TF 87/min, SpO₂ 99% spont., 95 kg, 190 cm, BMI = 20,1
 Pacient K+P kompenzovaný, vigilní GCS 15, lucidní, spolupracuje, bez lateralizace, ameningeální, orientačne neurologicky v normě, typ normosthenický, stav výživy a svalstva přiměřený
 Kůže: bez patologických efflorescencí, anikterická, necyanotická, bez známek krvácení, adnexa bez odchylek, sliznice vlhké bez povlaku, turgor nesnížen, svalový tonus přiměřený věku, akra teplá, kapilární návrat <2 s. Ichtiózy na extenzorových plochách HK i DK
 Hlava: normocefalická, poklep a výstupy n.V nebolestivé, bulby ve středném postavení, sklery anikterické, zornice izokorické, fotoreakce+, konvergence+, jazyk plazí středem, sliznice vlhké a klidné, oči/uši/nos bez výtoku.
@@ -57,47 +57,18 @@ Břicho: v niveau, měkké, volně prohmatné bez rezistence, aperitoneální, p
 Per rectum: okolí anu klidné, indagace bez bolesti, v dosahu bez patologie a rezistence, cavum Douglasi neprominuje a nebolí, stolice zdravé barvy bez příměsí.
 HKK: bez otoku či zánětu, bez omezení hybnosti, pulzace hmatné (AA+, AB+, AR+, AU+)
 DKK: bez otoku či zánětu, bez omezení hybnosti, pulzace hmatné (AF+, AP+, ADP+, ATP+), bez flebotrombózy, bez trofických defektů.
-+- Status lokalis nálezu (--> CEAP, Dermatologicky)
 
---> && Dg.
+
+Dg.
+hlavná boldom = to s čím prišiel/najakútnejší problém
 --> /Res.
 
-*** NEUROLOGIE ORIENTAČNĚ ***
-Vědomí, symbolické funkce 
- = GCS // grafie, kalkulie, gnosie, praxie 
-Hlava:
-n. I, II: čich v normě, visus dobrý s korekcí, zorné pole plné bez výpadku
-n. III, IV., VI: víčka v eupozici, bulby ve středném postavení, všemi směry pohyblivé, zornice izokorické, fotoreakce+, konvergence+
-n. V: výstupy nebolestivé, senz+
-n. VII: grimasy zvládá, Chvostek neg.
-n. VIII: sluch dobrý, bilat., nystagmus 0.
-nn. IX-XII: patro se při fonaci zvedá, polykání OK, chuť v normě, mm.SCM tonus i pozice přiměřená
-Břicho: břišní rfxx. v normě
-HKK: svalová sila, pohyblivosť v kĺboch, výbavnosť reflexov
-DKK: -"-
-Stoj: Romberg I., II., III.
-Chůze:
-Meningy:
-Senzitivita:
-Citlivosť:
 
-& Differenciální diagnostika
-Syndromologie & Semiologie & Topologie & Etiologie
-
-** PARAKLINICKÁ VYŠETŘENÍ **
-
-LAB:
-    1. BCH: Mineralogram, JT, U, Cr, AMS, prot, CRP/proCAL
-    2. KO + diff
-    3: Koag (INR = Warf, aPTT = LMWH)
-    4. moč: chemicky + sediment
-    5. ABR, Astrup
-
-DIA:
-    RTG, USG, CT, CTAG, MRI, PET/CT ...
-ENDOSKOPIE:
 
 EKG:
+Popis: akce pravidelná, rytmus SINUS, SF = 81 bpm, jedna P vlna předchází každý QRS, ST bez denivelací P & T vlny konkordantní, osa cca 70°, linie přechodu V3|V4
+Res. fyziologické EKG
+
 srdeční akce, [R-R diff < 160 ms]
 srdeční rytmus, [sinusový/atriálny/junkční/idioventrikulární]
 srdeční frekvence, [SF = 300/squares, 55< freq <90]
