@@ -26,7 +26,7 @@ QoL: (Quality of Life)
 FF:
 GynA: Porody: (v.nat./sec.ces.), Aborty: , HAK, HST, menarché, menopauza, cyklus, pravidelné kontroly/skríning
 UroA: močení, reziduum, pravidelné kontroly/skríning
-EA: posledné nemoci v 1,3,6 měs., cesty do zahraničí, prodělaná infekční onemocnění, vakcinace (poninné i doplňkové)
+EA: posledné nemoci v 1,3,6 měs., bez rizikového cestování, prodělaná infekční onemocnění, vakcinace (poninné i doplňkové)
 TAT: tetanus?
 
 ** STATUS PRAESENS GENERALIS**
@@ -81,7 +81,10 @@ DIA:
     RTG, USG, CT, CTAG, MRI, PET/CT ...
 ENDOSKOPIE:
 
-EKG:
+** EKG: **
+Popis: akce pravidelná, rytmus SINUS, SF = 81 bpm, jedna P vlna předchází každý QRS, ST bez denivelací P & T vlny konkordantní, osa cca 70°, linie přechodu V3|V4
+Res. fyziologické EKG
+
 srdeční akce, [R-R diff < 160 ms]
 srdeční rytmus, [sinusový/atriálny/junkční/idioventrikulární]
 srdeční frekvence, [SF = 300/squares, 55< freq <90]
