@@ -84,7 +84,6 @@ ENDOSKOPIE:
 ** EKG: **
 Popis: akce pravidelná, rytmus SINUS, SF = 81 bpm, jedna P vlna předchází každý QRS, ST bez denivelací P & T vlny konkordantní, osa cca 70°, linie přechodu V3|V4
 Res. fyziologické EKG
-
 srdeční akce, [R-R diff < 160 ms]
 srdeční rytmus, [sinusový/atriálny/junkční/idioventrikulární]
 srdeční frekvence, [SF = 300/squares, 55< freq <90]
@@ -95,6 +94,13 @@ ST úsek,
 T vlna,
 QT interval,
 elektrická osa srdeční (EOS).
+
+** Transfuze **
+Zápis o podání transfuzního přípravku:
+Podané přípravky: 1x ERY koncentrát 450 ml. Křížové zkoušky na TTO dle protokolu. Dokumentace se shoduje. Bedside test KS souhlasí (pacient: A Rh-, konzerva: A Rh-)
+Stav před podáním (čas 12:10): TK 120/80 mmHg; TT 36,6 °C; TF 87/min, RF: 13/min, SpO2 97% spont.
+Podáno 12:15, ukončeno 13:00, 
+stav v ukončení: TK 120/80 mmHg; TT 36,6 °C; TF 87/min, RF: 13/min, SpO2 97% spont., PMK moč b.p.n., bez nežádoucí reakce
 
 ** KOMPLEMENTÁRNE VYŠETRENIA **
     Idchemie DKK --> Fontaine klasifikace (I., II., III., IV.)
