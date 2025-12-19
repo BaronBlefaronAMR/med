@@ -1,11 +1,14 @@
-Vědomí– vigilní ( bdělé), lucidní ( jasné), obluzené, oneiroidní, delirantní, obnubilatorní,
-depersonalizace, derealizace,….
-Orientace– časem, místem, osobou a situací – zachována/porušena,..
-Celkové vzezření, postoj a spolupráce – přiměřené situaci, bez nápadností, odpovídá
-adekvátně ( kuse, jednoslovně, v přiměřenémm rozsahu), zevnějšek upravený/
-neupravený, zanedbaný, nápadné líčení apod., spolupracuje/ nespolupracuje, hostinní,
-svádí vyšetřujícího,…
-Chování a PM aktivita – chování přiměřené situaci, PM tempo v normě ( zvýšené,
+# Status presens psychicus #
+
+**Vědomí** – vigilní ( bdělé), lucidní ( jasné), obluzené, oneiroidní, delirantní, obnubilatorní, depersonalizace, derealizace,….
+**Orientace** – časem, místem, osobou a situací – zachována/porušena,..
+
+**Celkové vzezření, postoj a spolupráce** 
+– přiměřené situaci, bez nápadností, odpovídá adekvátně ( kuse, jednoslovně, v přiměřenémm rozsahu), 
+- zevnějšek upravený/neupravený, zanedbaný, nápadné líčení apod.,
+- spolupracuje/ nespolupracuje, hostinní, hostilní, svádí vyšetřujícího,…
+
+**Chování a PM aktivita** – chování přiměřené situaci, PM tempo v normě ( zvýšené,
 spontánní, hyperkineze, hypokineze, agitovanost, stupor, …), kvalita PM aktivity –
 adekvátní ( provádí rituály, halucinatorní chování, sedí strnule, negativismus, katatonní
 příznaky, grimasy, manýrování, kontrola impulsů nedostatečná).
